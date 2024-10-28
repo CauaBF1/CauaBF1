@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm currently studying Computer Science at UFSCar. I'm learning C++ and Python, and I have some experience with frontend development.
+I'm studying Computer Science at UFSCar. Currently focused on C++ and Python, with some experience with frontend development.
 
 
 ## 🌐 Socials:
